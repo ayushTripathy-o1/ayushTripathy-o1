@@ -1,6 +1,6 @@
 <i>Hi there 👋</i>
-Skills: 
-*Java (spring boot)
-*Typescript / javascript
-*React, tailwindcss, zustand, shadcn ui
-*Linux
+### Skills: 
+[x] Java (spring boot)
+[x] Typescript / javascript
+[x] React, tailwindcss, zustand, shadcn ui
+[x] Linux
