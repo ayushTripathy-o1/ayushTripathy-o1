@@ -1,2 +1,2 @@
 <i>Hi there 👋</i><br/>
-<i> ~ 💓 Linux | Backend | Low Level</i>
+<i> ~ Linux 🐧| Backend 🌐 | Low Level ⚙️</i>
