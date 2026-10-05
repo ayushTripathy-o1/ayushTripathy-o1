@@ -8,30 +8,6 @@ I build backend systems, developer tools, and things that probably didn't need t
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🎯 Currently Learning
-- Learning DevOps stuff — current: **AWS**
-- Focusing on **backend system design**
-- Understanding **scalable database concepts**
-- Low-level stuff in **C**
-- Sometimes it's random
-
-### 💻 Development Stack
-
-| Category | Technologies |
-|----------|-------------|
-| **Programming** | Java, TypeScript, JavaScript |
-| **Web** | HTML, CSS |
-| **Backend** | Spring Boot, Spring Security, Express, Prisma, Drizzle ORM |
-| **Frontend** | React, React Router, Tailwind CSS, Shadcn UI, Flowbite, Axios, Zustand |
-| **Databases** | MySQL, PostgreSQL, SQLite |
-| **Cloud / DevOps** | Docker |
-| **Dev Tools** | Linux, Neovim, Postman, Git, GitHub |
-| **Others** | Standard JS/TS libraries... |
-
----
-
 ## 📊 Language Usage
 
 <p align="center">
